@@ -1,15 +1,22 @@
+body {
+    color: #3882f6;
+    background-color: white;
+
+}
+
+
 .header {
     font-family: sans-serif;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    background-color: rgb(19, 38, 58);
+    padding: 30px;
+    background-color: #1f2937;
     color: white;
 }
 
 .logo {
-    font-size: 30px;
+    font-size: 24px;
     font-weight: bolder;
     display: flex;
 }
