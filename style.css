@@ -12,12 +12,13 @@ body {
     align-items: center;
     padding: 30px;
     background-color: #1f2937;
-    color: white;
+    color: #E5E7EB;
 }
 
 .logo {
     font-size: 24px;
     font-weight: bolder;
+    color: #F9FAF8;
     display: flex;
 }
 
