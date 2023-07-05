@@ -9,8 +9,7 @@ body {
     font-family: sans-serif;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 30px;
+    padding: 30px 100px 50px 100px;
     background-color: #1f2937;
     color: #E5E7EB;
 }
@@ -33,4 +32,24 @@ a {
     text-decoration: none;
     font-size: 20px;
     color: white;
+}
+
+.container {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-between;
+    align-items: center;
+    font-family: sans-serif;
+    padding: 30px 100px 50px 100px;
+}
+
+.hero-main {
+    font-weight: bolder;
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
 }
