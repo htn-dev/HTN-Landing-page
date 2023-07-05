@@ -9,7 +9,7 @@ body {
     font-family: sans-serif;
     display: flex;
     justify-content: space-between;
-    padding: 30px 100px 50px 100px;
+    padding: 30px 200px 50px 200px;
     background-color: #1f2937;
     color: #E5E7EB;
 }
@@ -37,19 +37,44 @@ a {
 .container {
     display: flex;
     background-color: #1f2937;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     font-family: sans-serif;
-    padding: 30px 100px 50px 100px;
+    padding: 30px 200px 150px 200px;
+}
+
+.hero {
+    padding-right: 50px;
 }
 
 .hero-main {
     font-weight: bolder;
     font-size: 48px;
     color: #F9FAF8;
+    padding-bottom: 20px;
 }
 
 .hero-secondary {
     font-size: 18px;
     color: #E5E7EB;
+    padding-bottom: 20px;
+}
+
+.placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 1000px;
+    background-color: grey;
+    color: #E5E7EB;
+}
+
+button {
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: bolder;
+    background-color: #3882F6;
+    color: #F9FAF8;
 }
