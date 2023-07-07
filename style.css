@@ -105,12 +105,21 @@ img {
 }
 
 .quote-container {
+    margin: auto;
     background-color: #E5E7EB;
-    display: ;
+    padding: 150px 300px 150px 300px;
+    color: #1f2937;
+    font-family: sans-serif;
 }
 
 .quote-text {
     font-size: 36px;
     font-style: italic;
-    color: #1f2937;
+    padding-bottom: 20px;
+}
+
+.quote-signature {
+    font-weight: bolder;
+    font-size: 28px;
+    text-align: right;
 }
