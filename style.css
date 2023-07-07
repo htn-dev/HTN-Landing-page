@@ -89,7 +89,8 @@ button {
 .information-container {
     display: flex;
     justify-content: center;
-    gap: 52px;
+    gap: 15px;
+    padding: 30px 200px 150px 200px;
 }
 
 .info {
@@ -100,6 +101,6 @@ button {
 }
 
 img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
