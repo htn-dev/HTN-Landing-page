@@ -1,6 +1,5 @@
 body {
     color: #3882f6;
-    background-color: white;
 
 }
 
@@ -103,4 +102,15 @@ button {
 img {
     width: 250px;
     height: 250px;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+    display: ;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
 }
