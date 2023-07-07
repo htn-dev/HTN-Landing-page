@@ -83,5 +83,23 @@ button {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    text-align: center;
+}
 
+.information-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info {
+    max-width: 400px;
+    text-align: center;
+    color: #1f2937;
+    font-size: 18px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
 }
