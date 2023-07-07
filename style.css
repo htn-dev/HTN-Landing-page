@@ -78,3 +78,10 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
 }
+
+.information-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+
+}
